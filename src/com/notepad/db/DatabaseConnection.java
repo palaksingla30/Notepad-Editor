@@ -8,7 +8,7 @@ public class DatabaseConnection {
     // Database credentials and URL. Adjust according to your local setup.
     private static final String URL = "jdbc:mysql://localhost:3306/notepad_db";
     private static final String USER = "root";
-    private static final String PASSWORD = "2830@412Ps"; // Set your DB password here
+    private static final String PASSWORD = "password"; // Set your DB password here
 
     private static Connection connection;
 
